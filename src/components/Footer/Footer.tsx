@@ -165,7 +165,7 @@ const Footer = () => {
           transition={{ duration: 0.6, delay: 0.6, ease: "easeOut" }}
           className="text-sm text-white"
         >
-          &copy; 2023 Cryptoverse. All Rights Reserved by Raghav Software Pvt
+          &copy; 2023 Cryptoverse. All Rights Reserved by Nilesh Software Pvt
           Ltd
         </motion.p>
       </div>
