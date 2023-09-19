@@ -85,14 +85,14 @@ const Footer = () => {
                   className="flex items-center mb-2"
                 >
                   <BsTelephoneFill className="mr-2" size={20} />
-                  +91 7078218794
+                  +91 7366866911
                 </motion.li>
                 <motion.li
                   variants={childVariants}
                   className="flex items-center mb-2"
                 >
                   <HiMail className="mr-2" size={20} />
-                  raghavharsh068@gmail.com
+                  nilesh.shukla47@gmail.com
                 </motion.li>
                 <motion.li
                   variants={childVariants}
